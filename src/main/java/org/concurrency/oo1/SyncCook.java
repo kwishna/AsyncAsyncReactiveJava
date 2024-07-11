@@ -9,6 +9,6 @@ public class SyncCook {
         cook.chopOnion();
         cook.peelPotato();
 
-        System.out.println("Total time taken is: " + (System.currentTimeMillis() - start_time));
+        System.out.println("Total time taken is: " + (System.currentTimeMillis() - start_time)); // 4044
     }
 }
